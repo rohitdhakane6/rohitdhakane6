@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rohit Dhakane
-- 👀 I’m interested in web devlapment
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning DSA in Java
 - 📫 Linkeln - www.linkedin.com/in/rohit-dhakane
 
