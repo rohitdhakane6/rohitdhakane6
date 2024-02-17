@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Rohit Dhakane | Full-Stack Web Developer 🚀<br><br>## About Me<br><br>Hi, I'm Rohit Dhakane, a passionate full-stack developer currently pursuing my Bachelor of Engineering degree. I specialize in crafting innovative and scalable web experiences using the MERN stack (MongoDB, Express.js, React.js, and Node.js). My expertise lies in managing complex stateful applications with precision, thanks to my mastery of Redux Toolkit.<br>
+# Rohit Dhakane | Full-Stack Web Developer 🚀<br><br># About Me<br><br>Hi, I'm Rohit Dhakane, a passionate full-stack developer currently pursuing my Bachelor of Engineering degree. I specialize in crafting innovative and scalable web experiences using the MERN stack (MongoDB, Express.js, React.js, and Node.js). My expertise lies in managing complex stateful applications with precision, thanks to my mastery of Redux Toolkit.<br>
 
 
 ## 🌐 Socials:
