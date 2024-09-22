@@ -6,16 +6,21 @@
   the web.
 </h4>
 
+<h2>Most Used Language</h2>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitdhakane6&layout=donut" />
+
+
 <h2>My GitHub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=dhakanerohit6&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=rohitdhakane6&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" />
 
 <h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,go,bash,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,java)](https://skillicons.dev)
 
 <h2>Frameworks</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=nestjs,express,fastapi,angular,react,nextjs,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,react,nextjs,tailwindcss)](https://skillicons.dev)
 
 <h2>Databases</h2>
   
